@@ -1,6 +1,6 @@
 <h1 align="center"> Layout One Piece </h1>
 
-<p align="center">Projeto desenvolvido com HTML, CSS e JavaScript utilizando funcionalidades bem basicas da linguagem como querySelectorAll / .add .remove / forEach(), criando uma lista de botões personagens e imprimindo a imagem e descrição dos mesmos</p>
+<h3 align="center">Projeto desenvolvido com HTML, CSS e JavaScript utilizando funcionalidades bem basicas da linguagem como querySelectorAll / .add .remove / forEach(), criando uma lista de botões personagens e imprimindo a imagem e descrição dos mesmos</h3>
 
 <h4 align="center"> Acesse o layout aqui: https://layout-one-piece.vercel.app/ </h4>
 
